@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-**Mahila-Shakti Unnati** is a GenAI-powered Android application developed for Women Self-Help Groups (SHGs) to digitally manage savings, loans, and member records.
+**Mahila-Shakti Unnati** is an Android application developed for Women Self-Help Groups (SHGs) to digitally manage savings, loans, and member records.
 
 The app replaces traditional paper-based bookkeeping with a secure and offline-first digital ledger system. It acts as a **Digital Accountant** that improves transparency, reduces manual errors, and simplifies financial management for SHGs.
 
@@ -67,7 +67,6 @@ Uses Gemini AI with local database context for accurate responses.
 | Room Database | Offline Local Storage |
 | Repository Pattern | Data Layer |
 | SQLCipher | Database Encryption |
-| Gemini AI | AI-powered Q&A |
 
 ---
 
@@ -181,7 +180,6 @@ git clone https://github.com/ttv26/mahila-shakti-unnati.git
 
 - Real-time dashboard updates
 - Offline functionality
-- Accurate AI responses
 - Loan conflict prevention
 - Easy report sharing
 
@@ -194,24 +192,6 @@ git clone https://github.com/ttv26/mahila-shakti-unnati.git
 - NGO/Bank dashboard
 - Multi-device sync
 - Analytics dashboard
-
----
-
-# 📸 Screenshots
-
-<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-57-30-711_com example unnati" src="https://github.com/user-attachments/assets/ec39a462-b8ac-45d2-bdcb-1bb49998d8dc" />
-<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-56-56-295_com example unnati" src="https://github.com/user-attachments/assets/73cdf149-e757-42a4-b73c-ef449c9845f4" />
-<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-55-02-469_com example unnati" src="https://github.com/user-attachments/assets/0b9a28ed-717e-42fd-bb52-ce11256e0b20" />
-<img width="1080" height="2400" alt="1778516431106" src="https://github.com/user-attachments/assets/db0abb77-e4d8-4703-a3a3-d4995625b81d" />
-
-
-```text
-screenshots/
-├── dashboard.png
-├── members.png
-├── loans.png
-└── reports.png
-```
 
 ---
 
