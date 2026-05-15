@@ -211,10 +211,6 @@ screenshots/
 
 ---
 
-Android Developer | Kotlin | Jetpack Compose | AI Integration
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
