@@ -160,7 +160,7 @@ A member cannot receive a new loan if:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/mahila-shakti-unnati.git
+git clone https://github.com/ttv26/mahila-shakti-unnati.git
 ```
 
 ## Open in Android Studio
@@ -199,7 +199,11 @@ git clone https://github.com/your-username/mahila-shakti-unnati.git
 
 # 📸 Screenshots
 
-_Add screenshots here_
+<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-57-30-711_com example unnati" src="https://github.com/user-attachments/assets/ec39a462-b8ac-45d2-bdcb-1bb49998d8dc" />
+<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-56-56-295_com example unnati" src="https://github.com/user-attachments/assets/73cdf149-e757-42a4-b73c-ef449c9845f4" />
+<img width="1080" height="2400" alt="Screenshot_2026-05-11-21-55-02-469_com example unnati" src="https://github.com/user-attachments/assets/0b9a28ed-717e-42fd-bb52-ce11256e0b20" />
+<img width="1080" height="2400" alt="1778516431106" src="https://github.com/user-attachments/assets/db0abb77-e4d8-4703-a3a3-d4995625b81d" />
+
 
 ```text
 screenshots/
