@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv design_system_member_list.html s04_member_list.html)",
+      "Bash(mv member_list_dashboard.html s03_dashboard.html)",
+      "Bash(mv dashboard_admin.html s08_savings_entry.html)",
+      "Bash(mv savings_entry_new_loan.html s10_new_loan.html)"
+    ]
+  }
+}
