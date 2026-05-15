@@ -39,13 +39,6 @@ The app replaces traditional paper-based bookkeeping with a secure and offline-f
   - Interest
   - Repayment history
 
-## 🤖 GenAI Financial Q&A
-Ask questions in natural language such as:
-- “How much has Rani saved?”
-- “Who has pending loans?”
-- “Show total group capital”
-
-Uses Gemini AI with local database context for accurate responses.
 
 ## 📤 WhatsApp Export
 - Generate monthly summaries
